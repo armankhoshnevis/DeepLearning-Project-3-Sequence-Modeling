@@ -1,0 +1,16 @@
+name: deep-learning
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.8
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
+  - ipykernel
+  - pytorch
+  - pytorch-cuda=12.4
+  - torchaudio
+  - torchvision
+prefix: /mnt/home/khoshne1/.conda/envs/deep-learning
